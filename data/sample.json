@@ -1,0 +1,2308 @@
+{
+  "result": [
+    {
+      "name": "001 Kaivopuisto",
+      "coordinates": "60.155411,24.950391",
+      "total_slots": 30,
+      "free_slots": 0,
+      "avl_bikes": 50,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "002 Laivasillankatu",
+      "coordinates": "60.159715,24.955212",
+      "total_slots": 12,
+      "free_slots": 10,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "003 Kapteeninpuistikko",
+      "coordinates": "60.158172,24.944808",
+      "total_slots": 16,
+      "free_slots": 9,
+      "avl_bikes": 8,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "004 Viiskulma",
+      "coordinates": "60.160944,24.941859",
+      "total_slots": 14,
+      "free_slots": 13,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "005 Sepänkatu",
+      "coordinates": "60.157935,24.936083",
+      "total_slots": 32,
+      "free_slots": 3,
+      "avl_bikes": 31,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "006 Hietalahdentori",
+      "coordinates": "60.162287,24.929542",
+      "total_slots": 24,
+      "free_slots": 16,
+      "avl_bikes": 8,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "007 Designmuseo",
+      "coordinates": "60.163084,24.945894",
+      "total_slots": 14,
+      "free_slots": 13,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "008 Vanha kirkkopuisto",
+      "coordinates": "60.165311, 24.939186",
+      "total_slots": 20,
+      "free_slots": 20,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "010 Kasarmitori",
+      "coordinates": "60.165018,24.949497",
+      "total_slots": 28,
+      "free_slots": 27,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "011 Unioninkatu",
+      "coordinates": "60.167562,24.951004",
+      "total_slots": 22,
+      "free_slots": 22,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "012 Kanavaranta",
+      "coordinates": "60.168488,24.958478",
+      "total_slots": 26,
+      "free_slots": 26,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "013 Merisotilaantori",
+      "coordinates": "60.167891,24.975561",
+      "total_slots": 12,
+      "free_slots": 0,
+      "avl_bikes": 27,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "014 Senaatintori",
+      "coordinates": "60.169106,24.952527",
+      "total_slots": 22,
+      "free_slots": 22,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "015 Ritarikatu",
+      "coordinates": "60.171025, 24.955571",
+      "total_slots": 12,
+      "free_slots": 3,
+      "avl_bikes": 13,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "016 Liisanpuistikko",
+      "coordinates": "60.174175,24.961480",
+      "total_slots": 16,
+      "free_slots": 1,
+      "avl_bikes": 23,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "017 Varsapuistikko",
+      "coordinates": "60.173099,24.949636",
+      "total_slots": 28,
+      "free_slots": 25,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "018 Porthania",
+      "coordinates": "60.169873, 24.948153",
+      "total_slots": 20,
+      "free_slots": 20,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "019 Rautatientori / itä",
+      "coordinates": "60.170760,24.942522",
+      "total_slots": 20,
+      "free_slots": 20,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "020 Kaisaniemenpuisto",
+      "coordinates": "60.172958,24.942920",
+      "total_slots": 22,
+      "free_slots": 18,
+      "avl_bikes": 4,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "021 Töölönlahdenkatu",
+      "coordinates": "60.172910,24.939130",
+      "total_slots": 44,
+      "free_slots": 40,
+      "avl_bikes": 5,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "022 Rautatientori / länsi",
+      "coordinates": "60.170600,24.939671",
+      "total_slots": 16,
+      "free_slots": 14,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "023 Kiasma",
+      "coordinates": "60.171413,24.937402",
+      "total_slots": 30,
+      "free_slots": 29,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "024 Mannerheimintie",
+      "coordinates": "60.169045,24.939429",
+      "total_slots": 20,
+      "free_slots": 17,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "025 Narinkka",
+      "coordinates": "60.170015,24.935259",
+      "total_slots": 40,
+      "free_slots": 37,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "026 Kampin metroasema",
+      "coordinates": "60.168644,24.930435",
+      "total_slots": 32,
+      "free_slots": 30,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "027 Eerikinkatu",
+      "coordinates": "60.167390,24.935913",
+      "total_slots": 14,
+      "free_slots": 13,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "028 Lastenlehto",
+      "coordinates": "60.165754,24.927050",
+      "total_slots": 16,
+      "free_slots": 15,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "029 Baana",
+      "coordinates": "60.164159,24.922583",
+      "total_slots": 20,
+      "free_slots": 12,
+      "avl_bikes": 8,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "030 Itämerentori",
+      "coordinates": "60.163535,24.914765",
+      "total_slots": 40,
+      "free_slots": 40,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "031 Marian Sairaala",
+      "coordinates": "60.168335,24.922770",
+      "total_slots": 16,
+      "free_slots": 0,
+      "avl_bikes": 16,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "032 Eläinmuseo",
+      "coordinates": "60.171346,24.931874",
+      "total_slots": 20,
+      "free_slots": 20,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "033 Kauppakorkeakoulu",
+      "coordinates": "60.171155,24.925060",
+      "total_slots": 16,
+      "free_slots": 11,
+      "avl_bikes": 5,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "034 Kansallismuseo",
+      "coordinates": "60.173944,24.932879",
+      "total_slots": 16,
+      "free_slots": 13,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "035 Cygnauksenkatu",
+      "coordinates": "60.174063715, 24.92822758053",
+      "total_slots": 16,
+      "free_slots": 9,
+      "avl_bikes": 7,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "036 Apollonkatu",
+      "coordinates": "60.176076,24.922503",
+      "total_slots": 12,
+      "free_slots": 0,
+      "avl_bikes": 42,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "037 Töölönkatu",
+      "coordinates": "60.1774947, 24.928409278",
+      "total_slots": 18,
+      "free_slots": 4,
+      "avl_bikes": 19,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "038 Töölöntori",
+      "coordinates": "60.179141,24.924981",
+      "total_slots": 16,
+      "free_slots": 0,
+      "avl_bikes": 16,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "039 Ooppera",
+      "coordinates": "60.182578,24.926764",
+      "total_slots": 24,
+      "free_slots": 15,
+      "avl_bikes": 9,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "040 Hakaniemen metroasema",
+      "coordinates": "60.178102,24.952391",
+      "total_slots": 28,
+      "free_slots": 25,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "041 Ympyrätalo",
+      "coordinates": "60.180808,24.949272",
+      "total_slots": 28,
+      "free_slots": 22,
+      "avl_bikes": 8,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "042 Haapaniemenkatu",
+      "coordinates": "60.181907,24.956880",
+      "total_slots": 18,
+      "free_slots": 15,
+      "avl_bikes": 4,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "043 Karhupuisto",
+      "coordinates": "60.184283,24.952703",
+      "total_slots": 20,
+      "free_slots": 18,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "044 Sörnäisten metroasema",
+      "coordinates": "60.187704,24.960505",
+      "total_slots": 24,
+      "free_slots": 23,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "045 Brahen kenttä",
+      "coordinates": "60.186742,24.950833",
+      "total_slots": 22,
+      "free_slots": 22,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "046 Diakoniapuisto",
+      "coordinates": "60.186281,24.941812",
+      "total_slots": 10,
+      "free_slots": 9,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "047 Vanha Kauppahalli",
+      "coordinates": "60.16673071893,24.95350466638",
+      "total_slots": 22,
+      "free_slots": 20,
+      "avl_bikes": 2,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "048 Mastokatu",
+      "coordinates": "60.164800,24.968021",
+      "total_slots": 16,
+      "free_slots": 10,
+      "avl_bikes": 6,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "049 Annankatu",
+      "coordinates": "60.16345894291,24.94177084206",
+      "total_slots": 16,
+      "free_slots": 15,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "050 Melkonkuja",
+      "coordinates": "60.1498127,24.8861094",
+      "total_slots": 12,
+      "free_slots": 2,
+      "avl_bikes": 17,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "051 Itälahdenkatu",
+      "coordinates": "60.15066,24.8812502",
+      "total_slots": 12,
+      "free_slots": 0,
+      "avl_bikes": 19,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "052 Heikkilänaukio",
+      "coordinates": "60.1540763,24.8793159",
+      "total_slots": 20,
+      "free_slots": 8,
+      "avl_bikes": 12,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "053 Heikkiläntie",
+      "coordinates": "60.156817,24.8850653",
+      "total_slots": 12,
+      "free_slots": 1,
+      "avl_bikes": 10,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "054 Gyldenintie",
+      "coordinates": "60.1583842,24.8766658",
+      "total_slots": 26,
+      "free_slots": 26,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "055 Puistokaari",
+      "coordinates": "60.16169596138,24.85986626853",
+      "total_slots": 16,
+      "free_slots": 11,
+      "avl_bikes": 5,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "056 Luoteisväylä",
+      "coordinates": "60.1654485,24.8601992",
+      "total_slots": 12,
+      "free_slots": 0,
+      "avl_bikes": 25,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "057 Lauttasaaren ostoskeskus",
+      "coordinates": "60.1603306,24.8815441",
+      "total_slots": 26,
+      "free_slots": 1,
+      "avl_bikes": 25,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "058 Lauttasaarensilta",
+      "coordinates": "60.1615512,24.8926386",
+      "total_slots": 20,
+      "free_slots": 2,
+      "avl_bikes": 25,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "059 Salmisaarenranta",
+      "coordinates": "60.16478138043,24.90096080349",
+      "total_slots": 16,
+      "free_slots": 15,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "060 Porkkalankatu",
+      "coordinates": "60.1632493,24.905336",
+      "total_slots": 40,
+      "free_slots": 39,
+      "avl_bikes": 2,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "061 Länsisatamankatu",
+      "coordinates": "60.1589276,24.909692",
+      "total_slots": 16,
+      "free_slots": 0,
+      "avl_bikes": 33,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "062 Messitytönkatu",
+      "coordinates": "60.1610901,24.9158734",
+      "total_slots": 18,
+      "free_slots": 3,
+      "avl_bikes": 15,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "063 Jätkäsaarenlaituri",
+      "coordinates": "60.1619311,24.9214896",
+      "total_slots": 24,
+      "free_slots": 1,
+      "avl_bikes": 28,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "064 Tyynenmerenkatu",
+      "coordinates": "60.1565255,24.9217464",
+      "total_slots": 28,
+      "free_slots": 21,
+      "avl_bikes": 8,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "065 Hylkeenpyytäjänkatu",
+      "coordinates": "60.1546505,24.9314755",
+      "total_slots": 32,
+      "free_slots": 13,
+      "avl_bikes": 26,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "066 Ehrenströmintie",
+      "coordinates": "60.155309,24.9591271",
+      "total_slots": 20,
+      "free_slots": 18,
+      "avl_bikes": 2,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "067 Perämiehenkatu",
+      "coordinates": "60.15997725117,24.93383428634",
+      "total_slots": 16,
+      "free_slots": 4,
+      "avl_bikes": 11,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "068 Albertinkatu",
+      "coordinates": "60.1618359,24.9368179",
+      "total_slots": 20,
+      "free_slots": 13,
+      "avl_bikes": 6,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "069 Kalevankatu",
+      "coordinates": "60.1656962,24.9314323",
+      "total_slots": 16,
+      "free_slots": 15,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "070 Sammonpuistikko",
+      "coordinates": "60.1731473,24.9224112",
+      "total_slots": 14,
+      "free_slots": 3,
+      "avl_bikes": 10,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "071 Hietaniemenkatu",
+      "coordinates": "60.172630,24.911406",
+      "total_slots": 28,
+      "free_slots": 7,
+      "avl_bikes": 31,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "072 Eteläinen Hesperiankatu",
+      "coordinates": "60.175604,24.915733",
+      "total_slots": 18,
+      "free_slots": 6,
+      "avl_bikes": 12,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "073 Kesäkatu",
+      "coordinates": "60.1792967,24.9132504",
+      "total_slots": 14,
+      "free_slots": 11,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "074 Rajasaarentie",
+      "coordinates": "60.183137,24.911127",
+      "total_slots": 16,
+      "free_slots": 13,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "075 Korjaamo",
+      "coordinates": "60.1838677,24.9198371",
+      "total_slots": 24,
+      "free_slots": 0,
+      "avl_bikes": 37,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "076 Olympiastadion",
+      "coordinates": "60.1845055,24.9249741",
+      "total_slots": 20,
+      "free_slots": 3,
+      "avl_bikes": 17,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "077 Nordenskiöldinaukio",
+      "coordinates": "60.185184,24.914230",
+      "total_slots": 12,
+      "free_slots": 10,
+      "avl_bikes": 2,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "078 Messeniuksenkatu",
+      "coordinates": "60.1878352,24.9180102",
+      "total_slots": 24,
+      "free_slots": 0,
+      "avl_bikes": 25,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "079 Uimastadion",
+      "coordinates": "60.1892172,24.9292286",
+      "total_slots": 18,
+      "free_slots": 17,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "080 Jäähalli",
+      "coordinates": "60.1894025,24.9205978",
+      "total_slots": 1,
+      "free_slots": 1,
+      "avl_bikes": 0,
+      "operative": false,
+      "style": "Station off"
+    },
+    {
+      "name": "081 Stenbäckinkatu",
+      "coordinates": "60.1883091,24.9123717",
+      "total_slots": 18,
+      "free_slots": 9,
+      "avl_bikes": 9,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "082 Töölöntulli",
+      "coordinates": "60.190663,24.914096",
+      "total_slots": 20,
+      "free_slots": 13,
+      "avl_bikes": 7,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "083 Meilahden sairaala",
+      "coordinates": "60.1902195,24.9083351",
+      "total_slots": 28,
+      "free_slots": 26,
+      "avl_bikes": 2,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "084 Mäntytie",
+      "coordinates": "60.19163756,24.90078593",
+      "total_slots": 12,
+      "free_slots": 8,
+      "avl_bikes": 4,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "085 Jalavatie",
+      "coordinates": "60.1934696,24.905889",
+      "total_slots": 16,
+      "free_slots": 6,
+      "avl_bikes": 10,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "086 Kuusitie",
+      "coordinates": "60.1952452,24.9018997",
+      "total_slots": 24,
+      "free_slots": 8,
+      "avl_bikes": 16,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "087 Kustaankatu",
+      "coordinates": "60.18827522,24.95597593",
+      "total_slots": 20,
+      "free_slots": 20,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "088 Kiskontie",
+      "coordinates": "60.1989402,24.9012997",
+      "total_slots": 20,
+      "free_slots": 15,
+      "avl_bikes": 5,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "089 Tilkanvierto",
+      "coordinates": "60.1975329,24.899261",
+      "total_slots": 16,
+      "free_slots": 0,
+      "avl_bikes": 21,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "090 Paciuksenkaari",
+      "coordinates": "60.1944475,24.8911179",
+      "total_slots": 20,
+      "free_slots": 18,
+      "avl_bikes": 2,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "091 Seurasaari",
+      "coordinates": "60.188399,24.8847362",
+      "total_slots": 22,
+      "free_slots": 17,
+      "avl_bikes": 5,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "092 Saunalahdentie",
+      "coordinates": "60.1926305828,24.87922144235",
+      "total_slots": 8,
+      "free_slots": 1,
+      "avl_bikes": 10,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "093 Torpanranta",
+      "coordinates": "60.1948358,24.8713963",
+      "total_slots": 16,
+      "free_slots": 6,
+      "avl_bikes": 10,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "094 Laajalahden aukio",
+      "coordinates": "60.1983016,24.8759851",
+      "total_slots": 22,
+      "free_slots": 7,
+      "avl_bikes": 20,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "095 Munkkiniemen aukio",
+      "coordinates": "60.1967196,24.8840917",
+      "total_slots": 18,
+      "free_slots": 2,
+      "avl_bikes": 23,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "096 Huopalahdentie",
+      "coordinates": "60.1996653,24.8836209",
+      "total_slots": 14,
+      "free_slots": 7,
+      "avl_bikes": 6,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "098 Ulvilantie",
+      "coordinates": "60.2038803,24.8708833",
+      "total_slots": 12,
+      "free_slots": 3,
+      "avl_bikes": 9,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "099 Muusantori",
+      "coordinates": "60.2071193,24.8559544",
+      "total_slots": 12,
+      "free_slots": 1,
+      "avl_bikes": 13,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "100 Teljäntie",
+      "coordinates": "60.20949373296,24.868209662",
+      "total_slots": 12,
+      "free_slots": 2,
+      "avl_bikes": 10,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "101 Munkkivuoren ostoskeskus",
+      "coordinates": "60.2059946,24.8798291",
+      "total_slots": 24,
+      "free_slots": 13,
+      "avl_bikes": 11,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "103 Vihdintie",
+      "coordinates": "60.208925,24.8895209",
+      "total_slots": 14,
+      "free_slots": 0,
+      "avl_bikes": 18,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "104 Kriikunakuja",
+      "coordinates": "60.2056785,24.8916817",
+      "total_slots": 16,
+      "free_slots": 6,
+      "avl_bikes": 10,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "105 Tilkantori",
+      "coordinates": "60.2028392,24.8934761",
+      "total_slots": 16,
+      "free_slots": 8,
+      "avl_bikes": 8,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "106 Korppaanmäentie",
+      "coordinates": "60.2034735,24.8989297",
+      "total_slots": 16,
+      "free_slots": 11,
+      "avl_bikes": 5,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "107 Tenholantie",
+      "coordinates": "60.2024393,24.9054609",
+      "total_slots": 14,
+      "free_slots": 3,
+      "avl_bikes": 10,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "108 Radiokatu",
+      "coordinates": "60.204447,24.917931",
+      "total_slots": 14,
+      "free_slots": 12,
+      "avl_bikes": 2,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "109 Hertanmäenkatu",
+      "coordinates": "60.202336,24.922654",
+      "total_slots": 20,
+      "free_slots": 17,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "110 Maistraatintori",
+      "coordinates": "60.198898,24.924867",
+      "total_slots": 20,
+      "free_slots": 19,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "111 Esterinportti",
+      "coordinates": "60.1975724,24.9267808",
+      "total_slots": 20,
+      "free_slots": 16,
+      "avl_bikes": 4,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "112 Rautatieläisenkatu",
+      "coordinates": "60.2014382,24.9332721",
+      "total_slots": 22,
+      "free_slots": 21,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "113 Veturitori",
+      "coordinates": "60.199715,24.935198",
+      "total_slots": 40,
+      "free_slots": 11,
+      "avl_bikes": 31,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "114 Ratapihantie",
+      "coordinates": "60.197016,24.935891",
+      "total_slots": 22,
+      "free_slots": 10,
+      "avl_bikes": 12,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "115 Venttiilikuja",
+      "coordinates": "60.1942095,24.941578",
+      "total_slots": 17,
+      "free_slots": 1,
+      "avl_bikes": 19,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "116 Linnanmäki",
+      "coordinates": "60.1911411,24.9401593",
+      "total_slots": 32,
+      "free_slots": 28,
+      "avl_bikes": 4,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "117 Brahen puistikko",
+      "coordinates": "60.1896706,24.9481024",
+      "total_slots": 12,
+      "free_slots": 4,
+      "avl_bikes": 8,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "118 Fleminginkatu",
+      "coordinates": "60.1895417,24.9521601",
+      "total_slots": 24,
+      "free_slots": 23,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "119 Gebhardinaukio",
+      "coordinates": "60.1907096,24.9568729",
+      "total_slots": 20,
+      "free_slots": 19,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "120 Mäkelänkatu",
+      "coordinates": "60.1896352,24.9635596",
+      "total_slots": 28,
+      "free_slots": 28,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "121 Vilhonvuorenkatu",
+      "coordinates": "60.1864633,24.9678718",
+      "total_slots": 17,
+      "free_slots": 16,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "122 Lintulahdenkatu",
+      "coordinates": "60.1837182,24.9621936",
+      "total_slots": 16,
+      "free_slots": 8,
+      "avl_bikes": 16,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "123 Näkinsilta",
+      "coordinates": "60.179765,24.9554618",
+      "total_slots": 24,
+      "free_slots": 5,
+      "avl_bikes": 20,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "124 Isoisänsilta",
+      "coordinates": "60.18265182,24.98179261",
+      "total_slots": 18,
+      "free_slots": 7,
+      "avl_bikes": 11,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "125 Arielinkatu",
+      "coordinates": "60.1847821,24.9786428",
+      "total_slots": 20,
+      "free_slots": 0,
+      "avl_bikes": 37,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "126 Kalasataman metroasema",
+      "coordinates": "60.188399,24.975852",
+      "total_slots": 26,
+      "free_slots": 22,
+      "avl_bikes": 4,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "127 Teurastamo",
+      "coordinates": "60.1896994,24.9711926",
+      "total_slots": 20,
+      "free_slots": 7,
+      "avl_bikes": 17,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "128 Päijänteentie",
+      "coordinates": "60.1920576,24.9642238",
+      "total_slots": 14,
+      "free_slots": 5,
+      "avl_bikes": 9,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "129 Pernajantie",
+      "coordinates": "60.1942342,24.9579931",
+      "total_slots": 20,
+      "free_slots": 11,
+      "avl_bikes": 10,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "130 Teollisuuskatu",
+      "coordinates": "60.193486,24.9487524",
+      "total_slots": 24,
+      "free_slots": 24,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "131 Elimäenkatu",
+      "coordinates": "60.1962627,24.9476186",
+      "total_slots": 24,
+      "free_slots": 23,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "132 Hollolantie",
+      "coordinates": "60.19588479865,24.95453389981",
+      "total_slots": 12,
+      "free_slots": 7,
+      "avl_bikes": 5,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "133 Paavalinpuisto",
+      "coordinates": "60.1974886,24.9614385",
+      "total_slots": 22,
+      "free_slots": 14,
+      "avl_bikes": 9,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "134 Haukilahdenkatu",
+      "coordinates": "60.1985314,24.9676708",
+      "total_slots": 18,
+      "free_slots": 1,
+      "avl_bikes": 34,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "135 Velodrominrinne",
+      "coordinates": "60.2010614,24.9440506",
+      "total_slots": 12,
+      "free_slots": 0,
+      "avl_bikes": 13,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "136 Sofianlehdonkatu",
+      "coordinates": "60.2032721,24.9513636",
+      "total_slots": 12,
+      "free_slots": 0,
+      "avl_bikes": 13,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "137 Arabian kauppakeskus",
+      "coordinates": "60.2027912,24.9666128",
+      "total_slots": 24,
+      "free_slots": 2,
+      "avl_bikes": 23,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "138 Arabiankatu",
+      "coordinates": "60.2064085,24.9765672",
+      "total_slots": 14,
+      "free_slots": 0,
+      "avl_bikes": 34,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "139 Kaironkatu",
+      "coordinates": "60.2100255,24.9765801",
+      "total_slots": 16,
+      "free_slots": 13,
+      "avl_bikes": 4,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "140 Verkatehtaanpuisto",
+      "coordinates": "60.2137007,24.9797283",
+      "total_slots": 14,
+      "free_slots": 11,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "141 Intiankatu",
+      "coordinates": "60.2078582,24.9676383",
+      "total_slots": 16,
+      "free_slots": 1,
+      "avl_bikes": 18,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "142 Koskelantie",
+      "coordinates": "60.208749,24.9465139",
+      "total_slots": 14,
+      "free_slots": 5,
+      "avl_bikes": 15,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "143 Kuikkarinne",
+      "coordinates": "60.1570856,24.86930605",
+      "total_slots": 12,
+      "free_slots": 2,
+      "avl_bikes": 10,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "144 Käpyläntie",
+      "coordinates": "60.2139043,24.9588108",
+      "total_slots": 14,
+      "free_slots": 4,
+      "avl_bikes": 10,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "145 Pohjolankatu",
+      "coordinates": "60.213421,24.9437964",
+      "total_slots": 12,
+      "free_slots": 8,
+      "avl_bikes": 5,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "146 Pohjolanaukio",
+      "coordinates": "60.2172043,24.9544112",
+      "total_slots": 16,
+      "free_slots": 14,
+      "avl_bikes": 2,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "147 Käpylän asema",
+      "coordinates": "60.220227, 24.948694",
+      "total_slots": 18,
+      "free_slots": 18,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "148 Juhana Herttuan tie",
+      "coordinates": "60.2184427,24.9664619",
+      "total_slots": 16,
+      "free_slots": 6,
+      "avl_bikes": 14,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "149 Toinen linja",
+      "coordinates": "60.183164,24.9441949",
+      "total_slots": 22,
+      "free_slots": 10,
+      "avl_bikes": 12,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "150 Töölönlahden puisto",
+      "coordinates": "60.1766793,24.9338701",
+      "total_slots": 32,
+      "free_slots": 26,
+      "avl_bikes": 6,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "161 Eteläesplanadi",
+      "coordinates": "60.16723083,24.94746582",
+      "total_slots": 34,
+      "free_slots": 31,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "162 Leppäsuonaukio",
+      "coordinates": "60.16957343,24.9265905",
+      "total_slots": 28,
+      "free_slots": 27,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "163 Lehtisaarentie",
+      "coordinates": "60.18147258,24.85053677",
+      "total_slots": 12,
+      "free_slots": 1,
+      "avl_bikes": 13,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "501 Hanasaari",
+      "coordinates": "60.165820,24.840319",
+      "total_slots": 10,
+      "free_slots": 8,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "503 Keilalahti",
+      "coordinates": "60.171524,24.827467",
+      "total_slots": 30,
+      "free_slots": 30,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "505 Westendinasema",
+      "coordinates": "60.168266,24.805758",
+      "total_slots": 16,
+      "free_slots": 15,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "507 Golfpolku",
+      "coordinates": "60.168143,24.796136",
+      "total_slots": 16,
+      "free_slots": 9,
+      "avl_bikes": 7,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "509 Revontulentie",
+      "coordinates": "60.171551,24.802938",
+      "total_slots": 30,
+      "free_slots": 30,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "511 Sateentie",
+      "coordinates": "60.173424,24.810688",
+      "total_slots": 18,
+      "free_slots": 10,
+      "avl_bikes": 8,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "513 Hakalehto",
+      "coordinates": "60.173567,24.791390",
+      "total_slots": 24,
+      "free_slots": 14,
+      "avl_bikes": 9,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "515 Oravannahkatori",
+      "coordinates": "60.175769,24.792559",
+      "total_slots": 16,
+      "free_slots": 6,
+      "avl_bikes": 10,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "517 Länsituuli",
+      "coordinates": "60.175358,24.802049",
+      "total_slots": 24,
+      "free_slots": 23,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "519 Tapionaukio",
+      "coordinates": "60.176168,24.805825",
+      "total_slots": 26,
+      "free_slots": 25,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "521 Kulttuuriaukio",
+      "coordinates": "60.177588,24.803942",
+      "total_slots": 30,
+      "free_slots": 29,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "523 Ahertajantie",
+      "coordinates": "60.178750,24.797984",
+      "total_slots": 20,
+      "free_slots": 17,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "525 Mäntyviita",
+      "coordinates": "60.178702,24.810974",
+      "total_slots": 10,
+      "free_slots": 1,
+      "avl_bikes": 13,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "527 Otsolahti",
+      "coordinates": "60.178651,24.817396",
+      "total_slots": 18,
+      "free_slots": 0,
+      "avl_bikes": 18,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "529 Keilaniemi (M)",
+      "coordinates": "60.175233,24.828950",
+      "total_slots": 40,
+      "free_slots": 39,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "531 Keilaranta",
+      "coordinates": "60.177943,24.835352",
+      "total_slots": 24,
+      "free_slots": 24,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "533 Tekniikantie",
+      "coordinates": "60.180806,24.824747",
+      "total_slots": 18,
+      "free_slots": 15,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "537 Innopoli",
+      "coordinates": "60.185096,24.814220",
+      "total_slots": 20,
+      "free_slots": 19,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "539 Aalto-yliopisto (M), Tietotie",
+      "coordinates": "60.184987,24.820099",
+      "total_slots": 20,
+      "free_slots": 15,
+      "avl_bikes": 8,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "541 Aalto-yliopisto (M), Korkeakouluaukio",
+      "coordinates": "60.184312,24.826671",
+      "total_slots": 40,
+      "free_slots": 40,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "543 Otaranta",
+      "coordinates": "60.184830,24.837133",
+      "total_slots": 20,
+      "free_slots": 0,
+      "avl_bikes": 24,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "545 Sähkömies",
+      "coordinates": "60.188499,24.829985",
+      "total_slots": 14,
+      "free_slots": 14,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "547 Jämeräntaival",
+      "coordinates": "60.188118,24.835033",
+      "total_slots": 30,
+      "free_slots": 28,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "549 Maarinranta",
+      "coordinates": "60.187261,24.810199",
+      "total_slots": 12,
+      "free_slots": 8,
+      "avl_bikes": 6,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "551 Tietäjä",
+      "coordinates": "60.189143,24.807083",
+      "total_slots": 20,
+      "free_slots": 18,
+      "avl_bikes": 2,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "553 Metsänneidonpolku",
+      "coordinates": "60.186731,24.806152",
+      "total_slots": 18,
+      "free_slots": 10,
+      "avl_bikes": 7,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "555 Kalevalantie",
+      "coordinates": "60.184765,24.804022",
+      "total_slots": 20,
+      "free_slots": 16,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "557 Louhentori",
+      "coordinates": "60.187281,24.796952",
+      "total_slots": 16,
+      "free_slots": 6,
+      "avl_bikes": 10,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "559 Pohjankulma",
+      "coordinates": "60.182880,24.794014",
+      "total_slots": 24,
+      "free_slots": 19,
+      "avl_bikes": 4,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "561 Koivu-Mankkaa",
+      "coordinates": "60.182976,24.785760",
+      "total_slots": 20,
+      "free_slots": 0,
+      "avl_bikes": 23,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "563 Mankkaanlaaksontie",
+      "coordinates": "60.188706,24.780478",
+      "total_slots": 26,
+      "free_slots": 5,
+      "avl_bikes": 21,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "565 Mankkaanaukio",
+      "coordinates": "60.194599,24.769021",
+      "total_slots": 20,
+      "free_slots": 2,
+      "avl_bikes": 24,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "571 Tapiolan urheilupuisto",
+      "coordinates": "60.177749,24.784654",
+      "total_slots": 32,
+      "free_slots": 17,
+      "avl_bikes": 15,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "573 Urheilupuisto (M)",
+      "coordinates": "60.174650,24.779428",
+      "total_slots": 28,
+      "free_slots": 21,
+      "avl_bikes": 5,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "575 Tontunmäentie",
+      "coordinates": "60.176107,24.769667",
+      "total_slots": 16,
+      "free_slots": 7,
+      "avl_bikes": 9,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "577 Olarinluoma",
+      "coordinates": "60.180848,24.760606",
+      "total_slots": 18,
+      "free_slots": 7,
+      "avl_bikes": 12,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "579 Niittymaa",
+      "coordinates": "60.171127,24.775913",
+      "total_slots": 20,
+      "free_slots": 5,
+      "avl_bikes": 15,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "581 Niittykumpu (M)",
+      "coordinates": "60.170758,24.763184",
+      "total_slots": 32,
+      "free_slots": 31,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "583 Haukilahdenkatu",
+      "coordinates": "60.166481,24.772708",
+      "total_slots": 16,
+      "free_slots": 10,
+      "avl_bikes": 6,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "585 Haukilahdenaukio",
+      "coordinates": "60.162396,24.775882",
+      "total_slots": 20,
+      "free_slots": 8,
+      "avl_bikes": 12,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "587 Hauenkallio",
+      "coordinates": "60.162477,24.767831",
+      "total_slots": 12,
+      "free_slots": 7,
+      "avl_bikes": 5,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "589 Haukilahdenranta",
+      "coordinates": "60.158048,24.769864",
+      "total_slots": 16,
+      "free_slots": 1,
+      "avl_bikes": 21,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "591 Mellstenintie",
+      "coordinates": "60.154941,24.773993",
+      "total_slots": 24,
+      "free_slots": 1,
+      "avl_bikes": 30,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "593 Toppelundintie",
+      "coordinates": "60.159601,24.782536",
+      "total_slots": 12,
+      "free_slots": 1,
+      "avl_bikes": 24,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "595 Westendintie",
+      "coordinates": "60.158194,24.791754",
+      "total_slots": 16,
+      "free_slots": 4,
+      "avl_bikes": 12,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "596 Toppelundinportti",
+      "coordinates": "60.1624471,24.7848628",
+      "total_slots": 20,
+      "free_slots": 3,
+      "avl_bikes": 17,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "597 Linnakepolku",
+      "coordinates": "60.163352,24.790387",
+      "total_slots": 12,
+      "free_slots": 5,
+      "avl_bikes": 7,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "601 Nokkala",
+      "coordinates": "60.147974,24.754344",
+      "total_slots": 18,
+      "free_slots": 12,
+      "avl_bikes": 6,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "603 Matinlahdenranta",
+      "coordinates": "60.151041,24.754196",
+      "total_slots": 20,
+      "free_slots": 13,
+      "avl_bikes": 7,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "607 Nuottaniementie",
+      "coordinates": "60.147921,24.741546",
+      "total_slots": 14,
+      "free_slots": 1,
+      "avl_bikes": 16,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "609 Sepetlahdentie",
+      "coordinates": "60.152343,24.741234",
+      "total_slots": 10,
+      "free_slots": 2,
+      "avl_bikes": 8,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "611 Matinkartanontie",
+      "coordinates": "60.156258,24.752489",
+      "total_slots": 20,
+      "free_slots": 4,
+      "avl_bikes": 16,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "613 Matinkyläntie",
+      "coordinates": "60.155689,24.744978",
+      "total_slots": 14,
+      "free_slots": 6,
+      "avl_bikes": 10,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "615 Tiistiläntie",
+      "coordinates": "60.156755,24.737664",
+      "total_slots": 24,
+      "free_slots": 19,
+      "avl_bikes": 5,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "617 Tiistinkallio",
+      "coordinates": "60.153737,24.729112",
+      "total_slots": 12,
+      "free_slots": 5,
+      "avl_bikes": 7,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "619 Etuniementie",
+      "coordinates": "60.160645,24.724835",
+      "total_slots": 10,
+      "free_slots": 4,
+      "avl_bikes": 6,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "621 Hauenkalliontie",
+      "coordinates": "60.161138,24.756272",
+      "total_slots": 12,
+      "free_slots": 2,
+      "avl_bikes": 12,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "623 Nelikkotie",
+      "coordinates": "60.161588,24.746630",
+      "total_slots": 16,
+      "free_slots": 12,
+      "avl_bikes": 4,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "625 Suomenlahdentie",
+      "coordinates": "60.159866,24.740675",
+      "total_slots": 32,
+      "free_slots": 31,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "627 Piispansilta",
+      "coordinates": "60.162403,24.738416",
+      "total_slots": 36,
+      "free_slots": 34,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "629 Piispanportti",
+      "coordinates": "60.165603,24.732688",
+      "total_slots": 16,
+      "free_slots": 13,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "631 Friisilänaukio",
+      "coordinates": "60.162842,24.721367",
+      "total_slots": 12,
+      "free_slots": 7,
+      "avl_bikes": 5,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "633 Avaruuskatu",
+      "coordinates": "60.168971,24.724908",
+      "total_slots": 16,
+      "free_slots": 2,
+      "avl_bikes": 18,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "635 Kuunkatu",
+      "coordinates": "60.172673,24.726025",
+      "total_slots": 24,
+      "free_slots": 18,
+      "avl_bikes": 6,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "637 Ruomelantie",
+      "coordinates": "60.174524,24.729314",
+      "total_slots": 12,
+      "free_slots": 10,
+      "avl_bikes": 2,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "639 Itäportti",
+      "coordinates": "60.174914,24.738122",
+      "total_slots": 18,
+      "free_slots": 16,
+      "avl_bikes": 2,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "641 Komeetankatu",
+      "coordinates": "60.167216,24.735969",
+      "total_slots": 16,
+      "free_slots": 12,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "643 Auringonkatu",
+      "coordinates": "60.171548,24.731472",
+      "total_slots": 20,
+      "free_slots": 14,
+      "avl_bikes": 6,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "645 Piispankallio",
+      "coordinates": "60.168441,24.743532",
+      "total_slots": 16,
+      "free_slots": 9,
+      "avl_bikes": 7,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "647 Lystimäki",
+      "coordinates": "60.172814,24.745666",
+      "total_slots": 12,
+      "free_slots": 0,
+      "avl_bikes": 12,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "649 Lystimäensilta",
+      "coordinates": "60.174710,24.752442",
+      "total_slots": 12,
+      "free_slots": 9,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "651 Suurpellonaukio",
+      "coordinates": "60.184596,24.744131",
+      "total_slots": 24,
+      "free_slots": 10,
+      "avl_bikes": 14,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "653 Lukutori",
+      "coordinates": "60.187052,24.742571",
+      "total_slots": 14,
+      "free_slots": 5,
+      "avl_bikes": 9,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "701 Gallen-Kallelan tie",
+      "coordinates": "60.206142,24.840699",
+      "total_slots": 10,
+      "free_slots": 8,
+      "avl_bikes": 2,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "705 Laajalahden keskus",
+      "coordinates": "60.203892,24.804930",
+      "total_slots": 18,
+      "free_slots": 5,
+      "avl_bikes": 13,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "707 Majurinkulma",
+      "coordinates": "60.210735,24.824954",
+      "total_slots": 24,
+      "free_slots": 15,
+      "avl_bikes": 9,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "709 Yhdyskunnankuja",
+      "coordinates": "60.212508,24.819549",
+      "total_slots": 20,
+      "free_slots": 19,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "711 Kirjurinkuja",
+      "coordinates": "60.215751,24.826368",
+      "total_slots": 16,
+      "free_slots": 0,
+      "avl_bikes": 20,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "713 Upseerinkatu",
+      "coordinates": "60.216067,24.819396",
+      "total_slots": 30,
+      "free_slots": 16,
+      "avl_bikes": 14,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "715 Komentajankatu",
+      "coordinates": "60.216222,24.821932",
+      "total_slots": 12,
+      "free_slots": 1,
+      "avl_bikes": 12,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "717 Leiritori",
+      "coordinates": "60.211060,24.807955",
+      "total_slots": 12,
+      "free_slots": 7,
+      "avl_bikes": 5,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "719 Säteri",
+      "coordinates": "60.213722,24.810682",
+      "total_slots": 32,
+      "free_slots": 25,
+      "avl_bikes": 7,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "721 Säterinrinne",
+      "coordinates": "60.214193,24.805613",
+      "total_slots": 14,
+      "free_slots": 9,
+      "avl_bikes": 4,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "723 Säterinniitty",
+      "coordinates": "60.214666,24.800486",
+      "total_slots": 10,
+      "free_slots": 1,
+      "avl_bikes": 11,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "725 Rummunlyöjänkatu",
+      "coordinates": "60.217261,24.806279",
+      "total_slots": 20,
+      "free_slots": 14,
+      "avl_bikes": 6,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "727 Ratsutori",
+      "coordinates": "60.217311,24.812419",
+      "total_slots": 32,
+      "free_slots": 23,
+      "avl_bikes": 8,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "729 Leppävaaranaukio",
+      "coordinates": "60.218869,24.813885",
+      "total_slots": 22,
+      "free_slots": 12,
+      "avl_bikes": 12,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "731 Leppävaarankäytävä",
+      "coordinates": "60.220254,24.813437",
+      "total_slots": 20,
+      "free_slots": 7,
+      "avl_bikes": 17,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "733 Läkkitori",
+      "coordinates": "60.221019,24.813109",
+      "total_slots": 24,
+      "free_slots": 16,
+      "avl_bikes": 8,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "735 Mestarinkatu",
+      "coordinates": "60.221719, 24.818215",
+      "total_slots": 20,
+      "free_slots": 12,
+      "avl_bikes": 8,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "737 Muurarinkuja",
+      "coordinates": "60.223769,24.812271",
+      "total_slots": 18,
+      "free_slots": 14,
+      "avl_bikes": 4,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "739 Postipuun koulu",
+      "coordinates": "60.223827,24.826396",
+      "total_slots": 16,
+      "free_slots": 7,
+      "avl_bikes": 9,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "741 Gransinmäki",
+      "coordinates": "60.222154,24.804898",
+      "total_slots": 20,
+      "free_slots": 17,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "745 Leppävaaran urheilupuisto",
+      "coordinates": "60.224943,24.800971",
+      "total_slots": 32,
+      "free_slots": 4,
+      "avl_bikes": 28,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "747 Leppävaaran uimahalli",
+      "coordinates": "60.226379,24.804735",
+      "total_slots": 20,
+      "free_slots": 13,
+      "avl_bikes": 6,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "749 Vallikatu",
+      "coordinates": "60.228463,24.813871",
+      "total_slots": 24,
+      "free_slots": 19,
+      "avl_bikes": 5,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "751 Vallipolku",
+      "coordinates": "60.227564,24.821774",
+      "total_slots": 20,
+      "free_slots": 17,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "753 Linnuntie",
+      "coordinates": "60.234401,24.813954",
+      "total_slots": 24,
+      "free_slots": 19,
+      "avl_bikes": 5,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "755 Kutsuntatie",
+      "coordinates": "60.230453,24.824561",
+      "total_slots": 16,
+      "free_slots": 13,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "757 Painiitty",
+      "coordinates": "60.235089,24.831397",
+      "total_slots": 12,
+      "free_slots": 2,
+      "avl_bikes": 11,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "761 Mäkkylän asema",
+      "coordinates": "60.220412,24.839380",
+      "total_slots": 26,
+      "free_slots": 25,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "763 Kalkkipellonmäki",
+      "coordinates": "60.220551,24.833536",
+      "total_slots": 24,
+      "free_slots": 23,
+      "avl_bikes": 1,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "765 Adjutantinkatu",
+      "coordinates": "60.222222,24.832958",
+      "total_slots": 18,
+      "free_slots": 15,
+      "avl_bikes": 3,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "767 Ruutikatu",
+      "coordinates": "60.223377,24.820635",
+      "total_slots": 10,
+      "free_slots": 8,
+      "avl_bikes": 2,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "769 Tiurintie",
+      "coordinates": "60.204582,24.814794",
+      "total_slots": 12,
+      "free_slots": 12,
+      "avl_bikes": 0,
+      "operative": true,
+      "style": "Station on"
+    },
+    {
+      "name": "901 Pop-Up Jätkäsaari",
+      "coordinates": "60.156841, 24.912339",
+      "total_slots": 40,
+      "free_slots": 36,
+      "avl_bikes": 4,
+      "operative": true,
+      "style": "Station on"
+    }
+  ]
+}

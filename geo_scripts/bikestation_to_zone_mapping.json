@@ -1,0 +1,469 @@
+[
+  { "station_id": "110", "station_name": "Maistraatintori", "zone_id": 1368 },
+  { "station_id": "111", "station_name": "Esterinportti", "zone_id": 1370 },
+  {
+    "station_id": "112",
+    "station_name": "Rautatiel\u00e4isenkatu",
+    "zone_id": 1360
+  },
+  { "station_id": "113", "station_name": "Veturitori", "zone_id": 3263 },
+  { "station_id": "114", "station_name": "Ratapihantie", "zone_id": 3263 },
+  { "station_id": "001", "station_name": "Kaivopuisto", "zone_id": 3969 },
+  { "station_id": "002", "station_name": "Laivasillankatu", "zone_id": 2609 },
+  { "station_id": "003", "station_name": "Kapteeninpuistikko", "zone_id": 256 },
+  { "station_id": "004", "station_name": "Viiskulma", "zone_id": 236 },
+  { "station_id": "005", "station_name": "Sep\u00e4nkatu", "zone_id": 254 },
+  { "station_id": "006", "station_name": "Hietalahdentori", "zone_id": 234 },
+  { "station_id": "007", "station_name": "Designmuseo", "zone_id": 236 },
+  { "station_id": "008", "station_name": "Vanha kirkkopuisto", "zone_id": 218 },
+  { "station_id": "010", "station_name": "Kasarmitori", "zone_id": 2593 },
+  { "station_id": "011", "station_name": "Unioninkatu", "zone_id": 2593 },
+  { "station_id": "012", "station_name": "Kanavaranta", "zone_id": 3961 },
+  { "station_id": "013", "station_name": "Merisotilaantori", "zone_id": 1592 },
+  { "station_id": "014", "station_name": "Senaatintori", "zone_id": 2589 },
+  { "station_id": "015", "station_name": "Ritarikatu", "zone_id": 3959 },
+  { "station_id": "016", "station_name": "Liisanpuistikko", "zone_id": 2581 },
+  { "station_id": "017", "station_name": "Varsapuistikko", "zone_id": 2589 },
+  { "station_id": "018", "station_name": "Porthania", "zone_id": 2589 },
+  {
+    "station_id": "019",
+    "station_name": "Rautatientori / it\u00e4",
+    "zone_id": 212
+  },
+  { "station_id": "020", "station_name": "Kaisaniemenpuisto", "zone_id": 212 },
+  {
+    "station_id": "021",
+    "station_name": "T\u00f6\u00f6l\u00f6nlahdenkatu",
+    "zone_id": 212
+  },
+  {
+    "station_id": "022",
+    "station_name": "Rautatientori / l\u00e4nsi",
+    "zone_id": 212
+  },
+  { "station_id": "023", "station_name": "Kiasma", "zone_id": 212 },
+  { "station_id": "024", "station_name": "Mannerheimintie", "zone_id": 212 },
+  { "station_id": "025", "station_name": "Narinkka", "zone_id": 214 },
+  { "station_id": "026", "station_name": "Kampin metroasema", "zone_id": 216 },
+  { "station_id": "027", "station_name": "Eerikinkatu", "zone_id": 216 },
+  { "station_id": "028", "station_name": "Lastenlehto", "zone_id": 3277 },
+  { "station_id": "029", "station_name": "Baana", "zone_id": 3277 },
+  { "station_id": "030", "station_name": "It\u00e4merentori", "zone_id": 1422 },
+  { "station_id": "031", "station_name": "Marian Sairaala", "zone_id": 3277 },
+  { "station_id": "032", "station_name": "El\u00e4inmuseo", "zone_id": 214 },
+  { "station_id": "033", "station_name": "Kauppakorkeakoulu", "zone_id": 3275 },
+  { "station_id": "034", "station_name": "Kansallismuseo", "zone_id": 210 },
+  { "station_id": "035", "station_name": "Cygnauksenkatu", "zone_id": 210 },
+  { "station_id": "036", "station_name": "Apollonkatu", "zone_id": 3273 },
+  {
+    "station_id": "037",
+    "station_name": "T\u00f6\u00f6l\u00f6nkatu",
+    "zone_id": 210
+  },
+  {
+    "station_id": "038",
+    "station_name": "T\u00f6\u00f6l\u00f6ntori",
+    "zone_id": 1400
+  },
+  { "station_id": "039", "station_name": "Ooppera", "zone_id": 3267 },
+  {
+    "station_id": "040",
+    "station_name": "Hakaniemen metroasema",
+    "zone_id": 204
+  },
+  { "station_id": "041", "station_name": "Ympyr\u00e4talo", "zone_id": 204 },
+  { "station_id": "042", "station_name": "Haapaniemenkatu", "zone_id": 2575 },
+  { "station_id": "043", "station_name": "Karhupuisto", "zone_id": 200 },
+  {
+    "station_id": "044",
+    "station_name": "S\u00f6rn\u00e4isten metroasema",
+    "zone_id": 2559
+  },
+  { "station_id": "045", "station_name": "Brahen kentt\u00e4", "zone_id": 200 },
+  { "station_id": "046", "station_name": "Diakoniapuisto", "zone_id": 198 },
+  { "station_id": "047", "station_name": "Vanha Kauppahalli", "zone_id": 2593 },
+  { "station_id": "048", "station_name": "Mastokatu", "zone_id": 1602 },
+  { "station_id": "049", "station_name": "Annankatu", "zone_id": 236 },
+  { "station_id": "050", "station_name": "Melkonkuja", "zone_id": 3903 },
+  {
+    "station_id": "051",
+    "station_name": "It\u00e4lahdenkatu",
+    "zone_id": 2511
+  },
+  {
+    "station_id": "052",
+    "station_name": "Heikkil\u00e4naukio",
+    "zone_id": 2511
+  },
+  { "station_id": "053", "station_name": "Heikkil\u00e4ntie", "zone_id": 3895 },
+  { "station_id": "054", "station_name": "Gyldenintie", "zone_id": 2505 },
+  {
+    "station_id": "057",
+    "station_name": "Lauttasaaren ostoskeskus",
+    "zone_id": 2499
+  },
+  { "station_id": "058", "station_name": "Lauttasaarensilta", "zone_id": 1426 },
+  { "station_id": "059", "station_name": "Salmisaarenranta", "zone_id": 1402 },
+  { "station_id": "060", "station_name": "Porkkalankatu", "zone_id": 1420 },
+  {
+    "station_id": "061",
+    "station_name": "L\u00e4nsisatamankatu",
+    "zone_id": 1430
+  },
+  {
+    "station_id": "062",
+    "station_name": "Messityt\u00f6nkatu",
+    "zone_id": 1422
+  },
+  {
+    "station_id": "063",
+    "station_name": "J\u00e4tk\u00e4saarenlaituri",
+    "zone_id": 3283
+  },
+  { "station_id": "064", "station_name": "Tyynenmerenkatu", "zone_id": 268 },
+  {
+    "station_id": "065",
+    "station_name": "Hylkeenpyyt\u00e4j\u00e4nkatu",
+    "zone_id": 270
+  },
+  {
+    "station_id": "066",
+    "station_name": "Ehrenstr\u00f6mintie",
+    "zone_id": 4842
+  },
+  {
+    "station_id": "067",
+    "station_name": "Per\u00e4miehenkatu",
+    "zone_id": 234
+  },
+  { "station_id": "068", "station_name": "Albertinkatu", "zone_id": 234 },
+  { "station_id": "069", "station_name": "Kalevankatu", "zone_id": 216 },
+  { "station_id": "070", "station_name": "Sammonpuistikko", "zone_id": 3273 },
+  { "station_id": "071", "station_name": "Hietaniemenkatu", "zone_id": 1404 },
+  {
+    "station_id": "072",
+    "station_name": "Etel\u00e4inen Hesperiankatu",
+    "zone_id": 3271
+  },
+  { "station_id": "073", "station_name": "Kes\u00e4katu", "zone_id": 1398 },
+  { "station_id": "074", "station_name": "Rajasaarentie", "zone_id": 1394 },
+  { "station_id": "075", "station_name": "Korjaamo", "zone_id": 1396 },
+  { "station_id": "076", "station_name": "Olympiastadion", "zone_id": 1396 },
+  {
+    "station_id": "077",
+    "station_name": "Nordenski\u00f6ldinaukio",
+    "zone_id": 1394
+  },
+  { "station_id": "078", "station_name": "Messeniuksenkatu", "zone_id": 1384 },
+  { "station_id": "079", "station_name": "Uimastadion", "zone_id": 3265 },
+  {
+    "station_id": "080",
+    "station_name": "J\u00e4\u00e4halli",
+    "zone_id": 1384
+  },
+  {
+    "station_id": "081",
+    "station_name": "Stenb\u00e4ckinkatu",
+    "zone_id": 1382
+  },
+  {
+    "station_id": "082",
+    "station_name": "T\u00f6\u00f6l\u00f6ntulli",
+    "zone_id": 1382
+  },
+  {
+    "station_id": "083",
+    "station_name": "Meilahden sairaala",
+    "zone_id": 1382
+  },
+  { "station_id": "084", "station_name": "M\u00e4ntytie", "zone_id": 3863 },
+  { "station_id": "085", "station_name": "Jalavatie", "zone_id": 3863 },
+  { "station_id": "086", "station_name": "Kuusitie", "zone_id": 2477 },
+  { "station_id": "087", "station_name": "Kustaankatu", "zone_id": 2559 },
+  { "station_id": "088", "station_name": "Kiskontie", "zone_id": 2477 },
+  { "station_id": "089", "station_name": "Tilkanvierto", "zone_id": 2477 },
+  { "station_id": "090", "station_name": "Paciuksenkaari", "zone_id": 2479 },
+  { "station_id": "091", "station_name": "Seurasaari", "zone_id": 104 },
+  { "station_id": "092", "station_name": "Saunalahdentie", "zone_id": 92 },
+  { "station_id": "094", "station_name": "Laajalahden aukio", "zone_id": 90 },
+  { "station_id": "095", "station_name": "Munkkiniemen aukio", "zone_id": 76 },
+  { "station_id": "096", "station_name": "Huopalahdentie", "zone_id": 62 },
+  { "station_id": "098", "station_name": "Ulvilantie", "zone_id": 1170 },
+  { "station_id": "099", "station_name": "Muusantori", "zone_id": 1168 },
+  { "station_id": "100", "station_name": "Telj\u00e4ntie", "zone_id": 1146 },
+  {
+    "station_id": "101",
+    "station_name": "Munkkivuoren ostoskeskus",
+    "zone_id": 3169
+  },
+  { "station_id": "103", "station_name": "Vihdintie", "zone_id": 36 },
+  { "station_id": "104", "station_name": "Kriikunakuja", "zone_id": 48 },
+  { "station_id": "105", "station_name": "Tilkantori", "zone_id": 64 },
+  {
+    "station_id": "106",
+    "station_name": "Korppaanm\u00e4entie",
+    "zone_id": 2475
+  },
+  { "station_id": "107", "station_name": "Tenholantie", "zone_id": 2475 },
+  { "station_id": "108", "station_name": "Radiokatu", "zone_id": 1338 },
+  {
+    "station_id": "109",
+    "station_name": "Hertanm\u00e4enkatu",
+    "zone_id": 1358
+  },
+  { "station_id": "593", "station_name": "Toppelundintie", "zone_id": 1074 },
+  { "station_id": "595", "station_name": "Westendintie", "zone_id": 3109 },
+  { "station_id": "596", "station_name": "Toppelundinportti", "zone_id": 1070 },
+  { "station_id": "597", "station_name": "Linnakepolku", "zone_id": 1070 },
+  { "station_id": "115", "station_name": "Venttiilikuja", "zone_id": 192 },
+  { "station_id": "116", "station_name": "Linnanm\u00e4ki", "zone_id": 194 },
+  { "station_id": "117", "station_name": "Brahen puistikko", "zone_id": 196 },
+  { "station_id": "118", "station_name": "Fleminginkatu", "zone_id": 196 },
+  { "station_id": "119", "station_name": "Gebhardinaukio", "zone_id": 2559 },
+  {
+    "station_id": "120",
+    "station_name": "M\u00e4kel\u00e4nkatu",
+    "zone_id": 3949
+  },
+  { "station_id": "121", "station_name": "Vilhonvuorenkatu", "zone_id": 3953 },
+  { "station_id": "122", "station_name": "Lintulahdenkatu", "zone_id": 2569 },
+  { "station_id": "123", "station_name": "N\u00e4kinsilta", "zone_id": 2575 },
+  { "station_id": "124", "station_name": "Isois\u00e4nsilta", "zone_id": 1552 },
+  { "station_id": "125", "station_name": "Arielinkatu", "zone_id": 1544 },
+  {
+    "station_id": "126",
+    "station_name": "Kalasataman metroasema",
+    "zone_id": 1542
+  },
+  { "station_id": "127", "station_name": "Teurastamo", "zone_id": 1542 },
+  {
+    "station_id": "128",
+    "station_name": "P\u00e4ij\u00e4nteentie",
+    "zone_id": 2557
+  },
+  { "station_id": "129", "station_name": "Pernajantie", "zone_id": 190 },
+  { "station_id": "130", "station_name": "Teollisuuskatu", "zone_id": 188 },
+  { "station_id": "131", "station_name": "Elim\u00e4enkatu", "zone_id": 184 },
+  { "station_id": "132", "station_name": "Hollolantie", "zone_id": 190 },
+  { "station_id": "133", "station_name": "Paavalinpuisto", "zone_id": 186 },
+  { "station_id": "134", "station_name": "Haukilahdenkatu", "zone_id": 2555 },
+  { "station_id": "135", "station_name": "Velodrominrinne", "zone_id": 178 },
+  { "station_id": "136", "station_name": "Sofianlehdonkatu", "zone_id": 178 },
+  {
+    "station_id": "137",
+    "station_name": "Arabian kauppakeskus",
+    "zone_id": 2553
+  },
+  { "station_id": "138", "station_name": "Arabiankatu", "zone_id": 3929 },
+  { "station_id": "139", "station_name": "Kaironkatu", "zone_id": 2545 },
+  {
+    "station_id": "140",
+    "station_name": "Verkatehtaanpuisto",
+    "zone_id": 3927
+  },
+  { "station_id": "141", "station_name": "Intiankatu", "zone_id": 2549 },
+  { "station_id": "142", "station_name": "Koskelantie", "zone_id": 166 },
+  {
+    "station_id": "144",
+    "station_name": "K\u00e4pyl\u00e4ntie",
+    "zone_id": 160
+  },
+  { "station_id": "145", "station_name": "Pohjolankatu", "zone_id": 164 },
+  { "station_id": "146", "station_name": "Pohjolanaukio", "zone_id": 152 },
+  {
+    "station_id": "147",
+    "station_name": "K\u00e4pyl\u00e4n asema",
+    "zone_id": 3241
+  },
+  {
+    "station_id": "148",
+    "station_name": "Juhana Herttuan tie",
+    "zone_id": 156
+  },
+  { "station_id": "149", "station_name": "Toinen linja", "zone_id": 198 },
+  {
+    "station_id": "705",
+    "station_name": "Laajalahden keskus",
+    "zone_id": 3083
+  },
+  { "station_id": "707", "station_name": "Majurinkulma", "zone_id": 4410 },
+  { "station_id": "709", "station_name": "Yhdyskunnankuja", "zone_id": 4408 },
+  {
+    "station_id": "150",
+    "station_name": "T\u00f6\u00f6l\u00f6nlahden puisto",
+    "zone_id": 210
+  },
+  { "station_id": "711", "station_name": "Kirjurinkuja", "zone_id": 2350 },
+  { "station_id": "713", "station_name": "Upseerinkatu", "zone_id": 4408 },
+  { "station_id": "715", "station_name": "Komentajankatu", "zone_id": 4408 },
+  { "station_id": "717", "station_name": "Leiritori", "zone_id": 3081 },
+  { "station_id": "719", "station_name": "S\u00e4teri", "zone_id": 3079 },
+  {
+    "station_id": "161",
+    "station_name": "Etel\u00e4esplanadi",
+    "zone_id": 2593
+  },
+  {
+    "station_id": "162",
+    "station_name": "Lepp\u00e4suonaukio",
+    "zone_id": 3275
+  },
+  { "station_id": "163", "station_name": "Lehtisaarentie", "zone_id": 1208 },
+  { "station_id": "721", "station_name": "S\u00e4terinrinne", "zone_id": 1022 },
+  {
+    "station_id": "723",
+    "station_name": "S\u00e4terinniitty",
+    "zone_id": 1022
+  },
+  {
+    "station_id": "725",
+    "station_name": "Rummunly\u00f6j\u00e4nkatu",
+    "zone_id": 1014
+  },
+  { "station_id": "727", "station_name": "Ratsutori", "zone_id": 1016 },
+  { "station_id": "607", "station_name": "Nuottaniementie", "zone_id": 2266 },
+  {
+    "station_id": "729",
+    "station_name": "Lepp\u00e4vaaranaukio",
+    "zone_id": 1016
+  },
+  { "station_id": "609", "station_name": "Sepetlahdentie", "zone_id": 2262 },
+  {
+    "station_id": "731",
+    "station_name": "Lepp\u00e4vaarank\u00e4yt\u00e4v\u00e4",
+    "zone_id": 1016
+  },
+  { "station_id": "733", "station_name": "L\u00e4kkitori", "zone_id": 1012 },
+  {
+    "station_id": "613",
+    "station_name": "Matinkyl\u00e4ntie",
+    "zone_id": 2262
+  },
+  { "station_id": "735", "station_name": "Mestarinkatu", "zone_id": 3069 },
+  { "station_id": "615", "station_name": "Tiistil\u00e4ntie", "zone_id": 4366 },
+  { "station_id": "737", "station_name": "Muurarinkuja", "zone_id": 1012 },
+  { "station_id": "739", "station_name": "Postipuun koulu", "zone_id": 4404 },
+  { "station_id": "619", "station_name": "Etuniementie", "zone_id": 3009 },
+  { "station_id": "741", "station_name": "Gransinm\u00e4ki", "zone_id": 1010 },
+  { "station_id": "621", "station_name": "Hauenkalliontie", "zone_id": 2258 },
+  { "station_id": "623", "station_name": "Nelikkotie", "zone_id": 2256 },
+  { "station_id": "503", "station_name": "Keilalahti", "zone_id": 2428 },
+  {
+    "station_id": "745",
+    "station_name": "Lepp\u00e4vaaran urheilupuisto",
+    "zone_id": 1010
+  },
+  { "station_id": "625", "station_name": "Suomenlahdentie", "zone_id": 2260 },
+  { "station_id": "505", "station_name": "Westendinasema", "zone_id": 4454 },
+  {
+    "station_id": "747",
+    "station_name": "Lepp\u00e4vaaran uimahalli",
+    "zone_id": 1006
+  },
+  { "station_id": "627", "station_name": "Piispansilta", "zone_id": 2256 },
+  { "station_id": "507", "station_name": "Golfpolku", "zone_id": 3105 },
+  { "station_id": "749", "station_name": "Vallikatu", "zone_id": 1008 },
+  { "station_id": "629", "station_name": "Piispanportti", "zone_id": 3005 },
+  { "station_id": "509", "station_name": "Revontulentie", "zone_id": 4448 },
+  { "station_id": "751", "station_name": "Vallipolku", "zone_id": 3067 },
+  {
+    "station_id": "631",
+    "station_name": "Friisil\u00e4naukio",
+    "zone_id": 3007
+  },
+  { "station_id": "511", "station_name": "Sateentie", "zone_id": 2426 },
+  { "station_id": "753", "station_name": "Linnuntie", "zone_id": 993 },
+  { "station_id": "633", "station_name": "Avaruuskatu", "zone_id": 949 },
+  { "station_id": "513", "station_name": "Hakalehto", "zone_id": 1060 },
+  { "station_id": "635", "station_name": "Kuunkatu", "zone_id": 947 },
+  { "station_id": "515", "station_name": "Oravannahkatori", "zone_id": 3101 },
+  { "station_id": "637", "station_name": "Ruomelantie", "zone_id": 3003 },
+  { "station_id": "517", "station_name": "L\u00e4nsituuli", "zone_id": 4448 },
+  { "station_id": "519", "station_name": "Tapionaukio", "zone_id": 4436 },
+  {
+    "station_id": "761",
+    "station_name": "M\u00e4kkyl\u00e4n asema",
+    "zone_id": 2332
+  },
+  { "station_id": "641", "station_name": "Komeetankatu", "zone_id": 3005 },
+  { "station_id": "521", "station_name": "Kulttuuriaukio", "zone_id": 4436 },
+  {
+    "station_id": "763",
+    "station_name": "Kalkkipellonm\u00e4ki",
+    "zone_id": 2348
+  },
+  { "station_id": "643", "station_name": "Auringonkatu", "zone_id": 3003 },
+  { "station_id": "523", "station_name": "Ahertajantie", "zone_id": 3101 },
+  { "station_id": "765", "station_name": "Adjutantinkatu", "zone_id": 4404 },
+  { "station_id": "645", "station_name": "Piispankallio", "zone_id": 2252 },
+  { "station_id": "525", "station_name": "M\u00e4ntyviita", "zone_id": 2424 },
+  { "station_id": "767", "station_name": "Ruutikatu", "zone_id": 3069 },
+  { "station_id": "647", "station_name": "Lystim\u00e4ki", "zone_id": 4362 },
+  { "station_id": "527", "station_name": "Otsolahti", "zone_id": 2424 },
+  { "station_id": "769", "station_name": "Tiurintie", "zone_id": 3085 },
+  {
+    "station_id": "649",
+    "station_name": "Lystim\u00e4ensilta",
+    "zone_id": 2240
+  },
+  { "station_id": "529", "station_name": "Keilaniemi (M)", "zone_id": 3813 },
+  { "station_id": "531", "station_name": "Keilaranta", "zone_id": 3811 },
+  { "station_id": "533", "station_name": "Tekniikantie", "zone_id": 2412 },
+  { "station_id": "537", "station_name": "Innopoli", "zone_id": 4434 },
+  {
+    "station_id": "539",
+    "station_name": "Aalto-yliopisto (M), Tietotie",
+    "zone_id": 2410
+  },
+  {
+    "station_id": "541",
+    "station_name": "Aalto-yliopisto (M), Korkeakouluaukio",
+    "zone_id": 2412
+  },
+  { "station_id": "543", "station_name": "Otaranta", "zone_id": 3809 },
+  {
+    "station_id": "545",
+    "station_name": "S\u00e4hk\u00f6mies",
+    "zone_id": 2416
+  },
+  {
+    "station_id": "547",
+    "station_name": "J\u00e4mer\u00e4ntaival",
+    "zone_id": 2416
+  },
+  { "station_id": "549", "station_name": "Maarinranta", "zone_id": 4434 },
+  { "station_id": "551", "station_name": "Tiet\u00e4j\u00e4", "zone_id": 3095 },
+  {
+    "station_id": "553",
+    "station_name": "Mets\u00e4nneidonpolku",
+    "zone_id": 3097
+  },
+  { "station_id": "555", "station_name": "Kalevalantie", "zone_id": 3097 },
+  { "station_id": "557", "station_name": "Louhentori", "zone_id": 1044 },
+  { "station_id": "559", "station_name": "Pohjankulma", "zone_id": 1050 },
+  { "station_id": "561", "station_name": "Koivu-Mankkaa", "zone_id": 1048 },
+  {
+    "station_id": "563",
+    "station_name": "Mankkaanlaaksontie",
+    "zone_id": 3723
+  },
+  { "station_id": "565", "station_name": "Mankkaanaukio", "zone_id": 2230 },
+  {
+    "station_id": "571",
+    "station_name": "Tapiolan urheilupuisto",
+    "zone_id": 1054
+  },
+  { "station_id": "573", "station_name": "Urheilupuisto (M)", "zone_id": 1058 },
+  {
+    "station_id": "575",
+    "station_name": "Tontunm\u00e4entie",
+    "zone_id": 3725
+  },
+  { "station_id": "577", "station_name": "Olarinluoma", "zone_id": 2234 },
+  { "station_id": "579", "station_name": "Niittymaa", "zone_id": 1058 },
+  { "station_id": "581", "station_name": "Niittykumpu (M)", "zone_id": 2246 },
+  { "station_id": "583", "station_name": "Haukilahdenkatu", "zone_id": 3729 },
+  { "station_id": "585", "station_name": "Haukilahdenaukio", "zone_id": 1068 },
+  { "station_id": "587", "station_name": "Hauenkallio", "zone_id": 1066 },
+  { "station_id": "589", "station_name": "Haukilahdenranta", "zone_id": 1072 }
+]
