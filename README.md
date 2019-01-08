@@ -13,6 +13,8 @@ Our entry for the Junction 2018 hackathon: an app for predicting city bike resup
 - Aleksi Pekkala
 - Katri Tegel
 
+![Screenshot](doc/screen2.png)
+
 ## Install
 
 ### Setup backend
